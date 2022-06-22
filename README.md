@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<iframe src="https://github.com/SerenaYKim/stigma-map-model/blob/master/stigma_campaign_map.html" height="700" width="500"></iframe>
+<iframe src="stigma_campaign_map.html" height="700" width="500"></iframe>
 
 ### Markdown
 
