@@ -6,6 +6,6 @@
 
 ## Arkansas
 
-
+See: https://www.serenaykim.com/stigma-map-model/ 
 
 ### Support or Contact
