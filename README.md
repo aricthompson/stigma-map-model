@@ -99,4 +99,4 @@
 
 ### Support or Contact
 - Name: Aric Thompson
-- Email: aric.thompson@ucdenver.edu
+- Email: [aric.thompson@ucdenver.edu]()
