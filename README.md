@@ -5,12 +5,12 @@
 ## Alabama
 - Name: "Stop Judging, Start Healing"
 - Organization: Alabama Department of Public Health and Department of Mental Health
-- Website: https://stopjudging.org
+- Website: [https://stopjudging.org](https://stopjudging.org)
 
 ## Alaska
 - Name: Anti-Stigma Campaign
 - Organization: The Alaska Mental Health Trust Authority
-- Website: https://alaskamentalhealthtrust.org/what-is-stigma/
+- Website: [https://alaskamentalhealthtrust.org/what-is-stigma/]
 
 ## Arizona
 - Name: "Fight Stigma"
